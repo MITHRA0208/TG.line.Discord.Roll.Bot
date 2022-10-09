@@ -22,7 +22,7 @@
 			"required": false
 		},
 		"DISCORD_CHANNEL_SECRET": {
-			"description": "MTAyODc1MDEwMTQyODA0Nzk1Mg.GrXL9t.GPvqC4wB8Hnoun5uP9p09OwmvQLYNh2S7NX-lg",
+			"description": "「Token」 ",
 			"required": false
 		},
 		"TELEGRAM_CHANNEL_KEYWORD": {
