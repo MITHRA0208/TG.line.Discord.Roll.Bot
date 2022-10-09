@@ -22,7 +22,7 @@
 			"required": false
 		},
 		"DISCORD_CHANNEL_SECRET": {
-			"description": "MTAyODc1MDEwMTQyODA0Nzk1Mg.Gq9bQg.XR20ADV7wNkTWW77B_4Kagc-rRjOCNl6_7oKos ",
+			"description": "MTAyODc1MDEwMTQyODA0Nzk1Mg.GrXL9t.GPvqC4wB8Hnoun5uP9p09OwmvQLYNh2S7NX-lg",
 			"required": false
 		},
 		"TELEGRAM_CHANNEL_KEYWORD": {
